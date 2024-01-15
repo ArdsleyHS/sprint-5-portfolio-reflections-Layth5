@@ -4,6 +4,8 @@
 
 a. What is the name of the list?
 
+The name of the list is “answerList”. 
+
 b. Paste a screenshot of where the list has elements added to it.
 
 c. Paste a screenshot of where a list element is accessed.
