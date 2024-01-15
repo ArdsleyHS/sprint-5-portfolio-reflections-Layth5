@@ -2,7 +2,7 @@
 
 1. Include a **screenshot** of an  interesting design that your Logo app made and a **screenshot** of the code that created it. Press the power button and volume down at the same time to take a **screenshot**.  ***Include this image and code in your write-up document, below.***
 
-![Cool Design](5-02 Screenshot).
+![Cool Design](5-02Screenshot.png).
 
 2. Consider the following two logo procedures:
 
