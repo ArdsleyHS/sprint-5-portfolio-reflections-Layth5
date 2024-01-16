@@ -47,4 +47,6 @@ end
 
 4. Give brief descriptions of the enhancements you added to your app for the third project, a quiz topic of your own choosing. Provide screenshots of important blocks and describe how you used them to solve certain programming problems.
 
+![Question 4](5-06Screenshot4.png).
 
+I made hints that help you with the questions incase you cant figure them out.
