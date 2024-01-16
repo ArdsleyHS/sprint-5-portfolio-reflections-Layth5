@@ -4,7 +4,7 @@
 
 a. Insert the table of running times you observed (you'll have to look up how to make a table using Markdown syntax).
 
-[!Chart](5-07Screenshot1a.png).
+![Chart](5-07Screenshot1a.png).
 
 b. Insert a screenshot of the graph you created (again, using proper Markdown syntax).
 
