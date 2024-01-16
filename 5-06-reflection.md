@@ -2,9 +2,9 @@
 
 1. Consider your solution for the second project that added a search button.
 a. Provide a screenshot of the search button procedure.
-
+![Question 1a](5-06Screenshot1a.png).
 b. Provide a screenshot of the code that calls the search procedure.
-
+![Question 1b](5-06Screenshot1a.png).
 c. Describe what the search procedure does.
 
 Searching is like using special instructions (algorithms) to find and get the information you need from the internet or databases.
