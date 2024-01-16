@@ -8,13 +8,16 @@ The name of the list is “answerList”.
 
 b. Paste a screenshot of where the list has elements added to it.
 
-![Cool Design](5-05Screenshot.png).
+![List has elements added to it](5-05 Screenshot elements.png
+).
 
 c. Paste a screenshot of where a list element is accessed.
 
-![Cool Design](5-05Screenshot.png).
+![List element is accessed](5-05 Screenshot accessed.png).
 
 d. What does the data contained in the list represent in the program?
+
+
 
 e. Explain how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.
 
