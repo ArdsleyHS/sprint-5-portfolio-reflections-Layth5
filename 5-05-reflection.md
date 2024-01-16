@@ -1,5 +1,7 @@
 # 5.05 Quiz App
 
+![Cool Design](5-02Screenshot.png).
+
 1. Consider one of the lists used in this program.
 
 a. What is the name of the list?
