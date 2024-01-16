@@ -1,6 +1,6 @@
 # 5.05 Quiz App
 
-![Cool Design](5-05 Screenshot accessed.png)
+![Cool Design](5-05 Screenshot accessed.png).
 
 1. Consider one of the lists used in this program.
 
