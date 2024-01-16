@@ -8,7 +8,11 @@ The name of the list is “answerList”.
 
 b. Paste a screenshot of where the list has elements added to it.
 
+![Cool Design](5-05Screenshot.png).
+
 c. Paste a screenshot of where a list element is accessed.
+
+![Cool Design](5-05Screenshot.png).
 
 d. What does the data contained in the list represent in the program?
 
