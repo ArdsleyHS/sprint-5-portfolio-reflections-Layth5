@@ -8,6 +8,8 @@ b. Insert a screenshot of the graph you created (again, using proper Markdown sy
 
 c. Write the conclusions you reached regarding the search algorithms. Provide a clear description, referring to your graphs and your data and graphs, to explain how you arrived at your conclusions.
 
+As the range increases so does the value
+
 2. Present the results and the analysis you did for the sort experiment in this lesson.
 
 a. Insert the table of running times you observed (you'll have to look up how to make a table using Markdown syntax).
@@ -15,3 +17,5 @@ a. Insert the table of running times you observed (you'll have to look up how to
 b. Insert a screenshot of the graph you created (again, using proper Markdown syntax).
 
 c. Write the conclusions you reached regarding the search algorithms. Provide a clear description, referring to your graphs and your data and graphs, to explain how you arrived at your conclusions.
+
+As the range increases so does the value
